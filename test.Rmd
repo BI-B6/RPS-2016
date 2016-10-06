@@ -22,3 +22,6 @@ str(cars)
 mean(cars$speed)
 ```
 
+## Git
+
+Use `Git / Pull` to get latest version of project from GitHub.
