@@ -12,4 +12,8 @@ https://github.com/ablejec/RPS-2016.git
 * Pritisnite gumb `Create project`
 
 RStudio bo pripravil projekt v ustreznem direktoriju in ga odprl: ime projekta bo napisano v desnem zgornjem vogalu.
-S funkcijo `r getwd()` lahko preverite lego delovnega direktorija.
+S funkcijo 
+```{r}
+getwd()
+``` 
+lahko preverite lego delovnega direktorija.
