@@ -25,3 +25,5 @@ mean(cars$speed)
 ## Git
 
 Use `Git / Pull` to get the latest version of project from GitHub.
+
+Now it should be automatically Pushed to GitHub after commit (git remote add upstream ...)
